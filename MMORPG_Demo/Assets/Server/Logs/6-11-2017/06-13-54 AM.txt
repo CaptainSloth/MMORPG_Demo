@@ -1,0 +1,6 @@
+6/11/2017 06:13:54 AM	[Trace]	#### Server boot ####
+6/11/2017 06:13:54 AM	[Trace]	#### Server boot ####
+6/11/2017 06:13:54 AM	[Log]	Server mounted, listening on port 4296
+6/11/2017 06:13:54 AM	[Trace]	Found plugin: C:\Users\robdu\Source\Repos\MMORPG_Demo\MMORPG_Demo\Assets\Server\Plugins\MySQLConnector.dll, type of MySQLConnector.Connector
+6/11/2017 06:13:54 AM	[Trace]	Found a total of 1 plugins.
+6/11/2017 06:13:54 AM	[Log]	Loaded database connector: MySQLConnector Version: 1.0
